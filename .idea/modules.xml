@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-condition/springboot-condition.iml" filepath="$PROJECT_DIR$/springboot-condition/springboot-condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable/springboot-enable.iml" filepath="$PROJECT_DIR$/springboot-enable/springboot-enable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" filepath="$PROJECT_DIR$/springboot-enable-other/springboot-enable-other.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot2.iml" filepath="$PROJECT_DIR$/.idea/springboot2.iml" />
     </modules>
   </component>
